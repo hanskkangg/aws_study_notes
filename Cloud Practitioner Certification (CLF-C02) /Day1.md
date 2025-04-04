@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/ec7c0090-1ad1-4bde-9e21-6b8fcada8ce4)
  
 Road Map 
-The patch im thinking of taking is cloud practioner -> sysops administrator -> Devops engineer -> Security
+The path im thinking of taking is cloud practioner -> sysops administrator -> Devops engineer -> Security
  ![image](https://github.com/user-attachments/assets/adf259b5-42f4-4dbe-8681-4c215c90eccf)
 
   ![image](https://github.com/user-attachments/assets/cad2e0db-6db4-4c28-acb0-4d97841ba1fc)
