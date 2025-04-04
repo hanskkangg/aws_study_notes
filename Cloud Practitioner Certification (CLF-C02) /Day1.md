@@ -29,13 +29,20 @@ Think of it like sharing an apartment with roommates:
 •	💸 It's cheap—great for beginners or small websites.
 •	🛠️ The hosting company (like HostGator) manages the server setup and maintenance for you.
 
+ ![image](https://github.com/user-attachments/assets/15550e38-21d5-449d-a3f6-d39cd5cb712c)
+
  
- 
+
+![image](https://github.com/user-attachments/assets/bf899016-3405-4b3d-90c7-d4d22d5d8b92)
+![image](https://github.com/user-attachments/assets/06f04775-e7e5-4d96-aaf4-bba29bbd8055)
+
 
  
 
 
 Whats AWS??
+![image](https://github.com/user-attachments/assets/104cf9c9-a26f-4a27-863c-b082aba10c5b)
+
 Amazon Web Services (AWS)
  
 
@@ -52,18 +59,12 @@ What is Cloud Service Provider (CSP)
 A Cloud Service Provider is a company that offers cloud computing services — like storage, computing power, databases, networking, and more — over the internet.
 Basically, they let you rent IT infrastructure instead of buying and maintaining your own servers.
 
- 
+ ![image](https://github.com/user-attachments/assets/1ce7143c-6d8c-41f5-83e2-93fe520e737a)
+
 IaaS – that means they have networking compute storage database etc..
 
-Landscape of CSPs
-Tier-1 (Top Tier)
- 
-Tier-2 
- 
-Tier-3
- 
-Tier- 4  Private tier= its basically a software you can deploy onto your own machine, datacenter to get the same functionality that you would as if you were using aws gcp
- 
+![image](https://github.com/user-attachments/assets/e2de983e-87a0-4361-b91a-6391f71e2139)
+
 
  
 The term Cloud Computing can be used to refer to all categories, even though it has “compute” in the name.
@@ -119,16 +120,24 @@ Use case:
 •	Building real-time applications (like chat or gaming)
  
 
+![image](https://github.com/user-attachments/assets/50a64566-5c64-4aa3-971e-fa803746ea45)
 
  
+ ![image](https://github.com/user-attachments/assets/c307b140-a29a-4c40-aff6-b049e6805950)
+
+![image](https://github.com/user-attachments/assets/ba8cd703-be6e-4b4f-80a4-532d6930d67a)
 
  
 One single physical server for single customer – its secure, but its up to you to make it secure.
 
+![image](https://github.com/user-attachments/assets/a1c3fe1b-0907-4b9e-ab77-223049038691)
+
  
 Virtual machine – very popular and most common offering for compute because people are comfortable.
 
- 
+ ![image](https://github.com/user-attachments/assets/95730fe0-626c-4add-b51d-7892b1f1e2fc)
+![image](https://github.com/user-attachments/assets/674948c5-4027-4300-a836-31632d896a25)
+
 Containers
  
 Serverless compute- you don’t even think about the OS.  You jtus know your runetime  you just run ruby python or node and you just upload the code and you just say I want this to be able to run for this run and use this much of memory. Only pay for the time its running. COLD STARTS
@@ -140,8 +149,10 @@ Serverless compute- you don’t even think about the OS.  You jtus know your run
 ✔️ YES! Unlike traditional hosting where you pay 24/7 for a server, serverless is event-based and billed per execution time (e.g., milliseconds).
 "COLD STARTS"
 ✔️ Nailed it — a cold start happens when the serverless platform needs to spin up a new container to run your function. It causes slight delay (usually milliseconds) on the first call after idle time.
+![image](https://github.com/user-attachments/assets/83d86b3a-c184-46e1-9e4b-1779de00f282)
 
  
+![image](https://github.com/user-attachments/assets/066880ad-8a66-4012-8039-20e6b4b66dde)
 
 Types of Cloud Computing
 SaaS – Software as Service. Don’t worry about how the service is maintained. It juts works and remains available. Designed for CUSTOMERS
@@ -154,13 +165,23 @@ IaaS – Infracturure as a Service – the basic building blocks for cloud IT. P
 
 Cloud Computing Deployment Models
 Public Cloud – built on  CSP  
+![image](https://github.com/user-attachments/assets/2224e42b-05ef-40cf-a419-dfaa4b8da2da)
+![image](https://github.com/user-attachments/assets/cc3d5114-a07a-4240-9524-004faf13ff16)
+
+
  
 Everything built on a company data center and being data center resides where you work 
- 
+ ![image](https://github.com/user-attachments/assets/2ebcdd3b-d971-4dac-8936-4a94a8cf1da1)
+
 Hybrid -  
 Cross-Cloud
 
+![image](https://github.com/user-attachments/assets/a65948b8-9856-4b1b-90cb-263211a7da2c)
 
 Deployment Model Use Cases
+
+![image](https://github.com/user-attachments/assets/f613feae-5bc4-4364-b718-c7d919c85608)
+
+
  
 
